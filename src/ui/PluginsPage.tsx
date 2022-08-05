@@ -50,14 +50,12 @@ const styles = Styles.createThemedStyleSheet({
         padding: 16,
     },
     text: {
-        fontFamily: Constants.Fonts.PRIMARY_SEMIBOLD,
         color: Styles.ThemeColorMap.TEXT_NORMAL,
         fontSize: 16,
         lineHeight: 22
     },
     link: {
         marginLeft: 5,
-        fontFamily: Constants.Fonts.PRIMARY_SEMIBOLD,
         fontSize: 16,
         lineHeight: 22,
         color: Styles.ThemeColorMap.TEXT_LINK
